@@ -6,7 +6,7 @@ class Profile extends React.Component{
         return(
             <div className = "profile">
                 <figure>
-                    <img src ="images/profilePhoto.png" alt="profile- photo"/>
+                    <img src ="images/profilePhoto.png" alt="rodney cotton profile"/>
                     <figcaption>Rodney Cotton</figcaption>
                 </figure>
             <p>Helsinki, Finland</p>
