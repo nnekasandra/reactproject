@@ -9,7 +9,7 @@ class Profile extends React.Component{
                     <img src ="images/profilePhoto.png" alt="rodney cotton profile"/>
                     <figcaption>Rodney Cotton</figcaption>
                 </figure>
-            <p>Helsinki, Finland</p>
+                <p>Helsinki, Finland</p>
             </div>
         );
     }
